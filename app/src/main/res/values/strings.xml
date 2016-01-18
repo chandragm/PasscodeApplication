@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PasscodeApplication</string>
+    <string name="enter_passcode">Enter the passcode</string>
+</resources>
